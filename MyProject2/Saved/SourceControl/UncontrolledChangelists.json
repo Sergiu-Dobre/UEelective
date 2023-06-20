@@ -7,19 +7,21 @@
 			"files": [
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/BPI_Damageble.uasset",
-				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/E_DamageResponses.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/E_DamageResponse.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/S_DamageInfo.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/E_DamageType.uasset",
-				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/Player.uasset",
-				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_Player.uasset",
-				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/BP_Player.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/Player/BP_Player.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/BPC_DamageSys.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/Enemy/BP_Enemy.uasset",
 				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/W_HealthBar.uasset",
-				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/4J/G1WO1BMWO5WKXVBFS4A153.uasset"
+				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/4J/G1WO1BMWO5WKXVBFS4A153.uasset",
+				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/ProjectFiles/BP_ProjectileBase.uasset",
+				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/ProjectFiles/BP_Projectile_Arrow.uasset",
+				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/E_DamageResponses.uasset",
+				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/Player.uasset",
+				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/Sergiu/Documents/Unreal Projects/MyProject2/Content/DamageSys/BP_Player.uasset"
 			]
 		}
 	]
